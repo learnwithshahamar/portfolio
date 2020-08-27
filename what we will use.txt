@@ -1,0 +1,6 @@
+-- progress: https://kimmobrunfeldt.github.io/progressbar.js/
+-- mixitup: https://www.kunkalabs.com/mixitup/
+slider: https://owlcarousel2.github.io/OwlCarousel2/
+Animation on Scroll: https://michalsnik.github.io/aos/
+Typing effect: https://mattboldt.com/demos/typed-js/
+-- Count: https://github.com/bfintal/Counter-Up
